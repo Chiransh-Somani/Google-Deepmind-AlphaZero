@@ -29,7 +29,7 @@ This project implements a game-playing agent based on the AlphaZero algorithm, i
 - Make sure you are running python version of 3.8 - 3.11.
 
 #### Install Dependencies:
-1. Clone the repository: `git clone https://github.com/amanmoon/general_alpha_zero.git`
+1. Clone the repository: `git clone https://github.com/Chiransh-Somani/Google-Deepmind-AlphaZero.git`
 2. Navigate to the project directory: `cd general_alpha_zero`
 3. Install dependencies: `pip install -r requirements.txt`
 
